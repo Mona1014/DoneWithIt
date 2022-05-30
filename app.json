@@ -2,6 +2,7 @@
   "expo": {
     "name": "DoneWithIt",
     "slug": "DoneWithIt",
+    "privacy":"public",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/icon.png",
@@ -28,6 +29,7 @@
     },
     "web": {
       "favicon": "./assets/favicon.png"
-    }
+    },
+    "description": "This is my first react native app. It's a TODO app, where you can add tasks and then delete them after its done"
   }
 }
