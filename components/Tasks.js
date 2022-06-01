@@ -4,8 +4,6 @@ import { StyleSheet, Text,View,TouchableOpacity} from 'react-native';
 
 const Tasks = (props)=>{
 
-
-
     return(
         <View style={styles.item}>
             <View style={styles.itemLeft}>
